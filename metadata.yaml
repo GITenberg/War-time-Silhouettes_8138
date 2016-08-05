@@ -1,0 +1,29 @@
+_repo: War-time-Silhouettes_8138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hudson, Stephen
+    alias: Schiff, Sydney Alfred
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '2660'
+    url: http://www.gutenberg.org/2009/agents/2660
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Hudson
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'War poetry, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Mr. Reiss's final grievance -- In the true interest of the nation
+  -- War work -- Business in business -- "Bobby" -- A war victim -- Dulce et decorum.
+title: War-time Silhouettes
+url: http://www.gutenberg.org/ebooks/8138
