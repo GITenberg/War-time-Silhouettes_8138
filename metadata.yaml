@@ -1,5 +1,8 @@
 _repo: War-time-Silhouettes_8138
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hudson, Stephen
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2660
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Hudson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8138#War-time-Silhouettes
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
